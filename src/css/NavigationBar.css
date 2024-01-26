@@ -1,0 +1,12 @@
+.nav-bar{
+    display: flex;
+    background-color: aqua;
+    padding: 15px;
+    list-style-type: none;
+    justify-content: space-between;
+    border-radius: 30px;
+}
+.nav-link{
+    border-radius: 30px;
+    text-decoration: none;
+}
